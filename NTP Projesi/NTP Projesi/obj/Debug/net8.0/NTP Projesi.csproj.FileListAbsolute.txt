@@ -1,0 +1,14 @@
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\bin\Debug\net8.0\NTP Projesi.exe
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\bin\Debug\net8.0\NTP Projesi.deps.json
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\bin\Debug\net8.0\NTP Projesi.runtimeconfig.json
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\bin\Debug\net8.0\NTP Projesi.dll
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\bin\Debug\net8.0\NTP Projesi.pdb
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.AssemblyInfoInputs.cache
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.AssemblyInfo.cs
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.dll
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\refint\NTP Projesi.dll
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.pdb
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\NTP Projesi.genruntimeconfig.cache
+C:\Users\Yasin Almaz\Desktop\NTP Projesi\NTP Projesi\obj\Debug\net8.0\ref\NTP Projesi.dll
