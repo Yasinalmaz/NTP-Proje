@@ -1,0 +1,14 @@
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.AssemblyInfoInputs.cache
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.AssemblyInfo.cs
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.csproj.CoreCompileInputs.cache
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\bin\Debug\net8.0\NTP-Proje Resataurantorder.exe
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\bin\Debug\net8.0\NTP-Proje Resataurantorder.deps.json
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\bin\Debug\net8.0\NTP-Proje Resataurantorder.runtimeconfig.json
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\bin\Debug\net8.0\NTP-Proje Resataurantorder.dll
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\bin\Debug\net8.0\NTP-Proje Resataurantorder.pdb
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.dll
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\refint\NTP-Proje Resataurantorder.dll
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.pdb
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\NTP-Proje Resataurantorder.genruntimeconfig.cache
+C:\Users\Yasin Almaz\Desktop\Visula Studio Yasin\NTP-Proje Resataurantorder\NTP-Proje Resataurantorder\obj\Debug\net8.0\ref\NTP-Proje Resataurantorder.dll
